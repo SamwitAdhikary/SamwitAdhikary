@@ -19,10 +19,13 @@
 [<img align="left" alt="samwit_adhikary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+<br />
 
 
+### GitHub Stats:
 
-<img align="left" alt="Samwit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamwitAdhikary&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamwitAdhikary&show_icons=true&hide_border=true" />
 
 
 
