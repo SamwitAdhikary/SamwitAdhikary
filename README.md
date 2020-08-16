@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - Samwit Adhikary 👋
+### Hi there, I'm Samwit Adhikary 👋
 
 [![Website](https://img.shields.io/website?label=iconiclifestyle.in&style=for-the-badge&url=https://www.iconiclifestyle.in)](https://www.iconiclifestyle.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SamwitAdhikary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/SamwitAdhikary&screen_name=SamwitAdhikary)
