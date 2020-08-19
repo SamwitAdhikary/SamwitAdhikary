@@ -1,6 +1,6 @@
 ### Hi there, I'm Samwit Adhikary 👋
 
-[![Website](https://img.shields.io/website?label=iconiclifestyle.in&style=for-the-badge&url=https://www.iconiclifestyle.in)](https://www.iconiclifestyle.in)
+[![Website](https://img.shields.io/website?label=samwitadhikary.github.io&style=for-the-badge&url=https://samwitadhikary.github.io/my-profile)](https://samwitadhikary.github.io/my-profile)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SamwitAdhikary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/SamwitAdhikary&screen_name=SamwitAdhikary)
 
 ## I'm a Student, Hard Worker and Fast Learner!
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="www.iconiclifestyle.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="samwitadhikary.github.io/my-profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="SamwitAdhikary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="samwitadhikary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="samwit_adhikary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -29,7 +29,7 @@
 
 
 
-[website]: https://www.iconiclifestyle.in
+[website]: https://samwitadhikary.github.io/my-profile
 [twitter]: https://twitter.com/SamwitAdhikary
 [instagram]: https://instagram.com/samwit_adhikary
 [linkedin]: https://linkedin.com/in/samwitadhikary
