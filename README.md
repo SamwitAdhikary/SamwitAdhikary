@@ -22,6 +22,7 @@
 <br />
 <br />
 
+[<img src="https://spotify-now-playing-neon.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
 
 ### GitHub Stats:
 
