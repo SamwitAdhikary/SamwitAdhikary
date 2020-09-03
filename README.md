@@ -22,6 +22,10 @@
 <br />
 <br />
 
+### Spotify Now Playing 🎧:
+
+[![Spotify](https://novatorem.samwitadhikary.vercel.app/api/spotify)](https://open.spotify.com/user/31patno4w2eglzuf45s7vyuqnsra)
+
 ### GitHub Stats:
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamwitAdhikary&show_icons=true&hide_border=true" />
