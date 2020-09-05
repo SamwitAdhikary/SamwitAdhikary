@@ -24,7 +24,7 @@
 
 ### Spotify Now Playing 🎧:
 
-
+[![Spotify](https://spotify-play-now.samwitadhikary.vercel.app/api/spotify)](https://open.spotify.com/user/31patno4w2eglzuf45s7vyuqnsra)
 
 ### GitHub Stats:
 
