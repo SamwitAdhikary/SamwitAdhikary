@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=samwitadhikary.github.io&style=for-the-badge&url=https://samwitadhikary.github.io/my-profile)](https://samwitadhikary.github.io/my-profile)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SamwitAdhikary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/SamwitAdhikary&screen_name=SamwitAdhikary)
+[![Visits](https://badges.pufler.dev/visits/SamwitAdhikary/SamwitAdhikary?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/SamwitAdhikary)
 
 
 ## I'm a Student, Hard Worker and Fast Learner!
