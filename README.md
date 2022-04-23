@@ -61,12 +61,10 @@ I've been learning code for 4 years. Started with HTML, CSS. Now I know Python, 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/SamwitAdhikary/ECOMMERCE" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamwitAdhikary&repo=ECOMMERCE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SamwitAdhikary/Note-it-for-Programmers" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamwitAdhikary&repo=Note-it-for-Programmers&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/SamwitAdhikary/ECOMMERCE" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamwitAdhikary&repo=ECOMMERCE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SamwitAdhikary/Note-it-for-Programmers" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamwitAdhikary&repo=Note-it-for-Programmers&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /> <br/>
 
 <div width="100%" align="center"><a href="https://github.com/SamwitAdhikary/OpenCV-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamwitAdhikary&repo=OpenCV-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SamwitAdhikary/EZHEALTH-Medical-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamwitAdhikary&repo=EZHEALTH-Medical-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-### Support Me
+<!-- ### Support Me
 
-<a href="https://www.buymeacoffee.com/samwit"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/samwit"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
