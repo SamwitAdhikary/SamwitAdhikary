@@ -1,7 +1,7 @@
 Hi 👋 My name is Samwit Adhiakry
 ================================
 
-I'm a Student, Hard Worker, Fast Learner.
+Works at LTIMindtree | Hard Worker | Fast Learner.
 -----------------------------------------
 
 I've been learning code for 4 years. Started with HTML, CSS. Now I know Python, C, C#, C++, Java, Linux, Dart.
