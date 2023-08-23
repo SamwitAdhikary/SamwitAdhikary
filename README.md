@@ -12,6 +12,8 @@ I've been learning code for 4 years. Started with HTML, CSS. Now I know Python, 
 * 🚀  I'm currently working on [be.social - a social media app](https://github.com/SamwitAdhikary/be.social)
 * 🧠  I'm learning something new everyday
 
+![](https://komarev.com/ghpvc/?username=SamwitAdhikary)
+
 ### Spotify Play Now 🎧
 
 [![Spotify](https://spotify-play-now.samwitadhikary.vercel.app/api/spotify)](https://open.spotify.com/user/31patno4w2eglzuf45s7vyuqnsra)
