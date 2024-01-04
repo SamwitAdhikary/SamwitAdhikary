@@ -9,7 +9,7 @@ I've been learning code for 4 years. Started with HTML, CSS. Now I know Python, 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://samwitadhikary.github.io/my-profile)
 * ✉️  You can contact me at [samwitadhikary2@gmail.com](mailto:samwitadhikary2@gmail.com)
-* 🚀  I'm currently working on [be.social - a social media app](https://github.com/SamwitAdhikary/be.social)
+* 🚀  I'm currently working on [SocialMediaApp](https://github.com/SamwitAdhikary/SocialMediaApp)
 * 🧠  I'm learning something new everyday
 
 ![](https://komarev.com/ghpvc/?username=SamwitAdhikary)
