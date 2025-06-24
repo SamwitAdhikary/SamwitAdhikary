@@ -1,4 +1,4 @@
-Hi 👋 My name is Samwit Adhiakry
+Hi 👋 My name is Samwit Adhikary
 ================================
 
 Works at LTIMindtree | Hard Worker | Fast Learner.
